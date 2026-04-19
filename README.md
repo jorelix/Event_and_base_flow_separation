@@ -54,7 +54,7 @@ Optional columns:
 •	Water table depth 
 •	Water temperature 
 ⚠️ Important:
-•	Missing concentration values must be replaced but unit place holders ‘1’
+•	Missing concentration values should be left blank but the title is still required to ensure file is read correctly everytime.
 •	Do NOT replace missing values with arbitrary constants 
 ________________________________________
 6. Running the Framework
